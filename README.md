@@ -1,0 +1,1 @@
+# Predicting-Voter-Tendencies-in-United-State-Batch-Statistics-Approach
